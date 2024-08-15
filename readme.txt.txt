@@ -1,4 +1,4 @@
 Welcome to my git project
 
 
-author: Michael okon
+author: Michael okon Barnabas 
